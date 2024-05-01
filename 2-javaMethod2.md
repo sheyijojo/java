@@ -83,5 +83,29 @@ public static void main(String[] args){
 }
 
 
+```java
+public class Droid {
+String name;
+int batteryLevel = 100;
+public Droid(String droidName){
+  name = droidName;
+}
+public String performTask(String task){
+  return (name + " is working hard and currently: " + task);
+}
+public String toString(){
+  return "Hello Robot world, my name is "+ name;
+}
+
+public static void main(String[] args){
+Droid codey = new Droid("robot_Droid");
+System.out.println(codey);
+System.out.println(codey.performTask("dancing"));
+}
+
+
+
+}
+
 
 ```
