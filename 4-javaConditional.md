@@ -1,7 +1,6 @@
 ## Conditional-And: &&
 
 
-
 ```java
 
 if (tuitionPaid) {
