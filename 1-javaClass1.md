@@ -10,6 +10,8 @@
 ## Best practices for organizing and ops on AWS 
 `https://www.youtube.com/watch?v=Eeyd6BDpucw&t=548s`
 
+## Resful API 
+`https://aws.amazon.com/what-is/restful-api/#:~:text=RESTful%20API%20is%20an%20interface,applications%20to%20perform%20various%20tasks.`
 ```java
 public class Store {
   // instance fields, initialize the variables
