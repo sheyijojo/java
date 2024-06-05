@@ -168,3 +168,5 @@ public class Newsfeed {
 }
 
 ```
+
+## Creating an Empty Array
